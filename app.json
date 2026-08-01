@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "SkyPulse Weather",
+    "slug": "skypulse-weather",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.rohit00007.skypulseweather"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c4ff982a-86f1-40cc-b5b0-684b28254eef"
+      }
+    }
+  }
+}
